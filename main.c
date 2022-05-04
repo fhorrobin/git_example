@@ -2,7 +2,5 @@
 
 int main() {
     printf("Hello World! I am adding stuff here\n");
+    printf("A new line.");
 }
-
-
-void function_2
